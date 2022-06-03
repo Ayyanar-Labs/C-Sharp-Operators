@@ -1,0 +1,6 @@
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\bin\Debug\RelationalOperators.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\bin\Debug\RelationalOperators.exe
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\bin\Debug\RelationalOperators.pdb
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\obj\Debug\RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\obj\Debug\RelationalOperators.exe
+C:\Ayyanar\DotNet\ConsoleApps\RelationalOperators\obj\Debug\RelationalOperators.pdb

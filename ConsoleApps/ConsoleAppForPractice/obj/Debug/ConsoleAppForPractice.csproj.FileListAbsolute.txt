@@ -1,0 +1,7 @@
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\bin\Debug\ConsoleAppForPractice.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\bin\Debug\ConsoleAppForPractice.exe
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\bin\Debug\ConsoleAppForPractice.pdb
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\obj\Debug\ConsoleAppForPractice.csproj.AssemblyReference.cache
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\obj\Debug\ConsoleAppForPractice.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\obj\Debug\ConsoleAppForPractice.exe
+C:\Ayyanar\DotNet\ConsoleApps\ConsoleAppForPractice\obj\Debug\ConsoleAppForPractice.pdb

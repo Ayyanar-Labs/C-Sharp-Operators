@@ -1,0 +1,7 @@
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\obj\Debug\TernaryOperator.csproj.AssemblyReference.cache
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Ayyanar\DotNet\ConsoleApps\TernaryOperator\obj\Debug\TernaryOperator.pdb

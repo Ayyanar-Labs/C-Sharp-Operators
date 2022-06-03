@@ -1,0 +1,14 @@
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.exe
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.pdb
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.csproj.AssemblyReference.cache
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.exe
+C:\Ayyanar\DotNet\ConsoleApps\New folder\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.pdb
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.exe
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\bin\Debug\ArithmaticOperatoers.pdb
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.csproj.AssemblyReference.cache
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.exe
+C:\Ayyanar\DotNet\ConsoleApps\ArithmaticOperatoers\obj\Debug\ArithmaticOperatoers.pdb

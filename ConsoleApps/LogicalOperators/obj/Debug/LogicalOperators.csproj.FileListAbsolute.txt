@@ -1,0 +1,7 @@
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\obj\Debug\LogicalOperators.csproj.AssemblyReference.cache
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Ayyanar\DotNet\ConsoleApps\LogicalOperators\obj\Debug\LogicalOperators.pdb
